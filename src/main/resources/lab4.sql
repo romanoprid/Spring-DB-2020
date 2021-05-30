@@ -1,4 +1,3 @@
-CREATE DATABASE IF NOT EXISTS roman_oprysk_test;
 USE roman_oprysk_test;
 
 
